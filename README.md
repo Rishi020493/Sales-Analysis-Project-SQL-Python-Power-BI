@@ -47,14 +47,6 @@ The dataset follows a **star schema**, with the **sales transactions** table act
 10. **Are there specific regions where sales are declining or growing?**  
 11. **Which market segments have the highest customer engagement?**  
 
-### **📅 Time-Based Analysis**  
-12. **How do sales vary by season, month, or quarter?**  
-13. **What are the most profitable periods for the business?**  
-
-### **🔮 Future Enhancements**  
-14. **Can we predict future sales trends using historical data?**  
-15. **How can targeted marketing strategies improve customer retention and sales?**  
-
 ---
 
 ## **📌 Technologies Used**
